@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include "funcs.h"
 
-void goo()
+int goo()
 {
-    printf("goo\n");
+
+        printf("hello goo world\n");
+	
+	return 1;
 }
